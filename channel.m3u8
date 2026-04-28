@@ -56,6 +56,9 @@ https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/master.m3u8?id=1
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-country="QA" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNT0AZWunUCFDpvaJvgdMrYMot3LElTnIwKg&s",Al Jazeera Qatar (QA)
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-country="ID" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-yQEgc5iJZJ0sqI2c1JqkFxRFJ9vy9DmG7g&s",ROCK Action (ID)
+https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+
 #EXTINF:-1 tvg-id="TheMovieClub.in" tvg-country="IN" group-title="Movies" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8UHsG6igPb5H-dNSQAP2-FUOLBiXVl6_BnsJ7Kgv8iUlppEC3",The Movie Club (IN)
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
@@ -98,8 +101,11 @@ https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainQuran.bh" tvg-country="BH" group-title="Religious" tvg-logo="https://dawa.center/images/61f7674f32bee.jpg",Bahrain Quran (BH)
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-country="AE" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5CoV1UA97JP2Kifh2kDkFOeEOR5fgzRhrbw&s",Spacetoon Arabic (AE)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
 #EXTINF:-1 tvg-id="MBC3USA.us" tvg-country="US" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBgE8BVpGdvd06Cj_y3Alk6IDS12dRAQwZaw&s",MBC 3 (US)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 
-#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-country="AE" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5CoV1UA97JP2Kifh2kDkFOeEOR5fgzRhrbw&s",Spacetoon Arabic (AE)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonAsia.id" tvg-country="ID" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9qLeSkOsL8PWX77WGRfxAxNRUspPPlzRmA&s",Nickelodeon Indonesia (ID)
+https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
