@@ -83,6 +83,9 @@ https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xia
 #EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-country="UK" group-title="Sports" tvg-logo="https://cdn.plus.fifa.com/images/web/logoFIFA.png",FIFA Plus (UK)
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates" tvg-country="US" group-title="Sports" tvg-logo="https://images.seeklogo.com/logo-png/53/1/fifa-logo-png_seeklogo-537674.png",FIFA+ (US)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MQTV.id@SD" tvg-country="ID" group-title="Religious" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa9oDgRi3asC3Bb55Q759sPHG2cjMJWSLXTg&s",MQTV (ID)
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
@@ -109,3 +112,9 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f
 
 #EXTINF:-1 tvg-id="NickelodeonAsia.id" tvg-country="ID" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9qLeSkOsL8PWX77WGRfxAxNRUspPPlzRmA&s",Nickelodeon Indonesia (ID)
 https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+
+#EXTINF:-1 tvg-id="Teletubbies.uk@SD" tvg-country="UK" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSulmQyLg6ENbMJJWac9W3Cbg0vZOV8JCR6FA&s",Teletubbies (UK)
+https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD" tvg-country="UK" group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/quXdhqNtN4enmorTKkIImB1JedPSee4X4pwQ1bhiKpmvpX1RMcdcfBb0YiH_GLslteNPBIHSRw=s900-c-k-c0x00ffffff-no-rj",Moonbug (UK)
+https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
