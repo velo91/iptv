@@ -56,9 +56,6 @@ https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/master.m3u8?id=1
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-country="QA" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNT0AZWunUCFDpvaJvgdMrYMot3LElTnIwKg&s",Al Jazeera Qatar (QA)
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="ROCKAction.id" tvg-country="ID" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-yQEgc5iJZJ0sqI2c1JqkFxRFJ9vy9DmG7g&s",ROCK Action (ID)
-https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
-
 #EXTINF:-1 tvg-id="TheMovieClub.in" tvg-country="IN" group-title="Movies" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8UHsG6igPb5H-dNSQAP2-FUOLBiXVl6_BnsJ7Kgv8iUlppEC3",The Movie Club (IN)
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
