@@ -60,7 +60,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8
 https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/stream.m3u8
 
 #EXTINF:-1 tvg-id="CNA.sg" tvg-country="SG" group-title="News" tvg-logo="https://images.seeklogo.com/logo-png/38/1/cna-channel-news-asia-logo-png_seeklogo-387586.png",CNA Singapore (SG)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h29/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4.cn" tvg-country="CN" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Bandicam_2020-01-19_16-11-11-191.jpg",CCTV 4 China (CN)
 https://op-flashcon-digdayahd-1.dens.tv/h/h22/index.m3u8
