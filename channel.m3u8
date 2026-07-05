@@ -72,7 +72,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h29/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h22/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-country="QA" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNT0AZWunUCFDpvaJvgdMrYMot3LElTnIwKg&s",Al Jazeera Qatar (QA)
-https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h43/index.m3u8
 
 #EXTINF:-1 tvg-id="SuperSimpleSongs.us" tvg-country="US" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Boxo.jpg",Super Simple Songs (US)
 https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
