@@ -66,13 +66,34 @@ https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/
 https://op-flashcon-digdayahd-1.dens.tv/h/h29/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4.cn" tvg-country="CN" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Bandicam_2020-01-19_16-11-11-191.jpg",CCTV 4 China (CN)
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h22/index.m3u8
-
-#EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/RTM_TV1.png",TV1 Malaysia (MY)
-https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/master.m3u8?id=1
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-country="QA" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNT0AZWunUCFDpvaJvgdMrYMot3LElTnIwKg&s",Al Jazeera Qatar (QA)
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSimpleSongs.us" tvg-country="US" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Boxo.jpg",Super Simple Songs (US)
+https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HappyKids.us" tvg-country="US" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png",HappyKids (US)
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="LegoChannel.us" tvg-country="US" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cc2BogQ1jkF3LF_OXA9uUcps4WfRJ3zYQ-OPPT38kg&s=10",Lego Channel (US)
+https://dltiqboxjw21d.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD" tvg-country="UK" group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/quXdhqNtN4enmorTKkIImB1JedPSee4X4pwQ1bhiKpmvpX1RMcdcfBb0YiH_GLslteNPBIHSRw=s900-c-k-c0x00ffffff-no-rj",Moonbug (UK)
+https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
+
+#EXTINF:-1 tvg-id="MBC3USA.us" tvg-country="US" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBgE8BVpGdvd06Cj_y3Alk6IDS12dRAQwZaw&s",MBC 3 (US)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-country="AE" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5CoV1UA97JP2Kifh2kDkFOeEOR5fgzRhrbw&s",Spacetoon Arabic (AE)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
+#EXTINF:-1 tvg-id="Teletubbies.uk@SD" tvg-country="UK" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSulmQyLg6ENbMJJWac9W3Cbg0vZOV8JCR6FA&s",Teletubbies (UK)
+https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-id="TheMovieClub.in" tvg-country="IN" group-title="Movies" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8UHsG6igPb5H-dNSQAP2-FUOLBiXVl6_BnsJ7Kgv8iUlppEC3",The Movie Club (IN)
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
@@ -111,28 +132,16 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 http://202.150.161.117:8000/play/AlBahjahTV
 
 #EXTINF:-1 tvg-id="QuranTV.sa" tvg-country="SA" group-title="Religious" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Saudi_Quran_TV_2020.png",Saudi Quran TV (SA)
-https://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
 
-#EXTINF:-1 tvg-id="SunnaTV.sa" tvg-country="SA" group-title="Religious" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Saudi_Sunnah_TV_2020.png",Saudi Sunnah TV (SA)
-https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
-
-#EXTINF:-1 tvg-id="QuranRadio.sa" tvg-country="SA" group-title="Religious" tvg-logo="https://d371i8ihhgym7w.cloudfront.net/107792019.jpg",Saudi Quran Radio (SA)
-https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+#EXTINF:-1 tvg-id="SunnaTV.sa" tvg-country="SA" group-title="Religious" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Saudi_Sunnah_TV_2020.png",Saudi Sunna TV (SA)
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8
 
 #EXTINF:-1 tvg-id="BahrainQuran.bh" tvg-country="BH" group-title="Religious" tvg-logo="https://dawa.center/images/61f7674f32bee.jpg",Bahrain Quran (BH)
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-country="AE" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5CoV1UA97JP2Kifh2kDkFOeEOR5fgzRhrbw&s",Spacetoon Arabic (AE)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-
-#EXTINF:-1 tvg-id="MBC3USA.us" tvg-country="US" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBgE8BVpGdvd06Cj_y3Alk6IDS12dRAQwZaw&s",MBC 3 (US)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-
-#EXTINF:-1 tvg-id="NickelodeonAsia.id" tvg-country="ID" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9qLeSkOsL8PWX77WGRfxAxNRUspPPlzRmA&s",Nickelodeon Indonesia (ID)
-https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
-
-#EXTINF:-1 tvg-id="Teletubbies.uk@SD" tvg-country="UK" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSulmQyLg6ENbMJJWac9W3Cbg0vZOV8JCR6FA&s",Teletubbies (UK)
-https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8
-
-#EXTINF:-1 tvg-id="MoonbugKids.uk@SD" tvg-country="UK" group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/quXdhqNtN4enmorTKkIImB1JedPSee4X4pwQ1bhiKpmvpX1RMcdcfBb0YiH_GLslteNPBIHSRw=s900-c-k-c0x00ffffff-no-rj",Moonbug (UK)
-https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
