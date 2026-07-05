@@ -14,6 +14,12 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RTV.id" tvg-country="ID" group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1WrA4tMzdMAsA6Wg3X05vx_800C-lBs7_AQ5aOn7l5g&s",RTV (ID)
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
+
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-country="ID" group-title="News" tvg-logo="https://images.seeklogo.com/logo-png/52/1/cnn-indonesia-logo-png_seeklogo-520453.png",CNN Indonesia (ID)
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com
@@ -30,25 +36,34 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-origin=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h234/index.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-country="ID" group-title="News" tvg-logo="https://images.seeklogo.com/logo-png/46/1/tvone-logo-png_seeklogo-461423.png",tvOne (ID)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-origin=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-country="ID" group-title="News" tvg-logo="https://yt3.googleusercontent.com/qX0Or-6wqAYGXEPiWV6ELZmJGRm2JtOIYYd2r54UQqaDKFlBeezvfgT_b6SB3JZTS16RjANs=s900-c-k-c0x00ffffff-no-rj",Metro TV (ID)
-https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-country="ID" group-title="General" tvg-logo="https://images.seeklogo.com/logo-png/40/1/tvri-televisi-republik-indonesia-2019-logo-png_seeklogo-401477.png",TVRI Nasional (ID)
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8
 
 #EXTINF:-1 tvg-id="BTV.id" tvg-country="ID" group-title="News" tvg-logo="https://yt3.googleusercontent.com/Kg0kYGkZHNQ8wi8UoOKD10tW0vCbWDocIPJoFqRAid_pNkPtW7lJSxkpO33htKuQqsvxMni7ZQ=s900-c-k-c0x00ffffff-no-rj",BTV (ID)
 https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8
 
 #EXTINF:-1 tvg-id="CNA.sg" tvg-country="SG" group-title="News" tvg-logo="https://images.seeklogo.com/logo-png/38/1/cna-channel-news-asia-logo-png_seeklogo-387586.png",CNA Singapore (SG)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4.cn" tvg-country="CN" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Bandicam_2020-01-19_16-11-11-191.jpg",CCTV 4 China (CN)
+https://op-flashcon-digdayahd-1.dens.tv/h/h22/index.m3u8
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/RTM_TV1.png",TV1 Malaysia (MY)
 https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/master.m3u8?id=1
